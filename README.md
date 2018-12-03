@@ -28,7 +28,7 @@ Adaptivity-special features
 
 Video Walkthrough
 --------
-<img src="https://imgur.com/a/9TEsKqc.gif">
+<img src="https://i.imgur.com/q7Xg8UI.gif">
 
 
 
