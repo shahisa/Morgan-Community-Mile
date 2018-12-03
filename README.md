@@ -3,7 +3,7 @@ Morgan Community Mile - Horizontal Parallax Engine
 
 Prototype website for engaging the Morgan Community within the school's radius. 
 
-=======================
+
 
 Features
 --------
