@@ -26,5 +26,10 @@ Adaptivity-special features
 - Proven to work well with touch devices and ready for iOS and Android platforms.
 
 
+Video Walkthrough
+--------
+<img src="https://imgur.com/a/9TEsKqc">
+
+
 
 Licensed under <a target="_blank" href="http://www.opensource.org/licenses/mit-license.php">MIT</a>.
